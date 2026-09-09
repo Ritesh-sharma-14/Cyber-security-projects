@@ -1,0 +1,5 @@
+cd tcp-port-scanner
+
+pip install -r requirements.txt
+
+python main.py
